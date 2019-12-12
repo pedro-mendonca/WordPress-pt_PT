@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.3.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-10 16:57:12+0000\n"
+"PO-Revision-Date: 2019-12-12 19:54:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,16 +48,16 @@ msgstr "O fuso horário por omissão do PHP foi configurado ao carregar o WordPr
 msgid "PHP default timezone is valid"
 msgstr "O fuso horário por omissão do PHP é válido"
 
-#: wp-admin/about.php:93
+#: wp-admin/about.php:126
 msgid "Heading blocks now offer controls for text color"
 msgstr "Os blocos de títulos agora têm controlos para a cor do texto"
 
 #. translators: %s: Link to the PHP 7 developer notes.
-#: wp-admin/about.php:184
+#: wp-admin/about.php:217
 msgid "WordPress 5.3 aims to fully support PHP 7.4. This release contains <a href=\"%s\">multiple changes</a> to remove deprecated functionality and ensure compatibility. WordPress continues to encourage all users to run the latest and greatest versions of PHP."
 msgstr "O WordPress 5.3 pretende suportar em pleno o PHP 7.4. Esta versão inclui <a href=\"%s\">múltiplas alterações</a> para remover funcionalidades obsoletas e garantir a compatibilidade. O WordPress continua a encorajar todos os utilizadores a utilizar as versões mais recentes do PHP."
 
-#: wp-admin/about.php:167
+#: wp-admin/about.php:200
 msgid "Date/Time Component Fixes"
 msgstr "Correcções do componente de data/hora"
 
@@ -66,82 +66,82 @@ msgstr "Correcções do componente de data/hora"
 msgid "The seventh parameter passed to %s should be an integer representing menu position."
 msgstr "O sétimo parâmetro passado à função %s deve ser um número inteiro que represente a posição no menu."
 
-#: wp-admin/about.php:179
+#: wp-admin/about.php:212
 msgid "PHP 7.4 Compatibility"
 msgstr "Compatibilidade com PHP 7.4"
 
 #. translators: %s: Link to the date/time developer notes.
-#: wp-admin/about.php:172
+#: wp-admin/about.php:205
 msgid "Developers can now work with <a href=\"%s\">dates and timezones</a> in a more reliable way. Date and time functionality has received a number of new API functions for unified timezone retrieval and PHP interoperability, as well as many bug fixes."
 msgstr "Os programadores podem agora trabalhar com <a href=\"%s\">datas e fusos horários</a> de forma mais fiável. As funcionalidades de data e hora têm agora novas funções de API para obtenção unificada do fuso horário e interoperabilidade do PHP, bem como muitas correcções de erros."
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:182
 msgid "You’ll now be periodically asked to confirm that your admin email address is up to date when you log in as an administrator. This reduces the chance of getting locked out of your site if you change your email address."
 msgstr "Agora ao iniciar a sessão ser-lhe-á pedido periodicamente que confirme se o endereço de email do administrador está actualizado. Isto reduz a probabilidade de ficar impedido de iniciar sessão caso mude de endereço de email."
 
-#: wp-admin/about.php:148
+#: wp-admin/about.php:181
 msgid "Admin Email Verification"
 msgstr "Verificação do email do administrador"
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:178
 msgid "The improvements introduced in 5.3 make it even easier to identify issues. Expanded recommendations highlight areas that may need troubleshooting on your site from the Health Check screen."
 msgstr "As melhorias introduzidas na versão 5.3 tornam ainda mais fácil identificar problemas. Mais recomendações do diagnóstico do site para destacar áreas do site que poderão ter problemas por resolver."
 
-#: wp-admin/about.php:141
+#: wp-admin/about.php:174
 msgid "Your images will be correctly rotated upon upload according to the embedded orientation data. This feature was first proposed nine years ago and made possible through the perserverance of many dedicated contributors."
 msgstr "As suas imagens serão correctamente rodadas ao carregar, de acordo com a respectiva informação de orientação. Esta funcionalidade foi proposta há nove anos e foi possível graças à perseverança de muitos contribuidores dedicados."
 
-#: wp-admin/about.php:140
+#: wp-admin/about.php:173
 msgid "Automatic Image Rotation"
 msgstr "Rotação automática de imagens"
 
 #. translators: %s: Link to the Inter font website.
-#: wp-admin/about.php:113
+#: wp-admin/about.php:146
 msgid "As befits a theme called Twenty Twenty, clarity and readability is also a big focus. The theme includes the typeface <a href=\"%s\">Inter</a>, designed by Rasmus Andersson. Inter comes in a Variable Font version, a first for default themes, which keeps load times short by containing all weights and styles of Inter in just two font files."
 msgstr "Como convém a um tema chamado Twenty Twenty, a sobriedade e legibilidade são um aspecto importante. O tema inclui a fonte <a href=\"%s\">Inter</a>, desenhada por Rasmus Andersson. A fonte Inter é uma versão de fonte variável, essencial para temas por omissão, permitindo rapidez de carregamento por incluir todas as variantes e estilos da fonte Inter em apenas dois ficheiros de fonte."
 
-#: wp-admin/about.php:107
+#: wp-admin/about.php:140
 msgid "As the block editor celebrates its first birthday, we are proud that Twenty Twenty is designed with flexibility at its core. Show off your services or products with a combination of columns, groups, and media blocks. Set your content to wide or full alignment for dynamic and engaging layouts. Or let your thoughts be the star with a centered content column!"
 msgstr "No momento em que o editor de blocos celebra o seu primeiro aniversário, é com orgulho que criámos o tema Twenty Twenty tendo como foco a flexibilidade. Apresente os seus serviços ou produtos com uma combinação de colunas, grupos e blocos multimédia. Disponha o seu conteúdo a toda a ou alinhado, com layouts dinâmicos e atraentes. Ou então deixe os seus pensamentos brilhar com uma única coluna centrada de conteúdo!"
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:127
 msgid "Additional style options allow you to set your preferred style for any block that supports this feature"
 msgstr "Opções adicionais de estilo permitem-lhe configurar o seu estilo favorito para qualquer bloco que suporte esta funcionalidade"
 
-#: wp-admin/about.php:92
+#: wp-admin/about.php:125
 msgid "The new Predefined layouts make it a cinch to arrange content into advanced designs"
 msgstr "Os novos layouts pré-definidos facilitam a organização de conteúdos em designs avançados"
 
-#: wp-admin/about.php:91
+#: wp-admin/about.php:124
 msgid "The Columns block now supports fixed column widths"
 msgstr "O bloco de colunas agora suporta colunas de largura fixa"
 
-#: wp-admin/about.php:90
+#: wp-admin/about.php:123
 msgid "The new Group block lets you easily divide your page into colorful sections"
 msgstr "O novo bloco de grupo permite-lhe facilmente dividir a sua página em secções coloridas"
 
 #. translators: %s: The current WordPress version number.
-#: wp-admin/about.php:84
+#: wp-admin/about.php:117
 msgid "WordPress %s adds even more robust tools for creating amazing designs."
 msgstr "O WordPress %s adiciona ferramentas ainda mais robustas para criar designs incríveis"
 
-#: wp-admin/about.php:79
+#: wp-admin/about.php:112
 msgid "Expanded Design Flexibility"
 msgstr "Maior flexibilidade de design"
 
-#: wp-admin/about.php:72
+#: wp-admin/about.php:105
 msgid "Accessibility improvements include the integration of block editor styles in the admin interface. These improved styles fix many accessibility issues: color contrast on form fields and buttons, consistency between editor and admin interfaces, new snackbar notices, standardizing to the default WordPress color scheme, and the introduction of Motion to make interacting with your blocks feel swift and natural. For people who use a keyboard to navigate the dashboard, the block editor now has a Navigation mode. This lets you jump from block to block without tabbing through every part of the block controls."
 msgstr "As melhorias de acessibilidade incluem a integração dos estilos do editor de blocos na interface de administração. Esta melhoria de estilos corrige muitos problemas de acessibilidade: contraste de cor em botões e campos de formulário, consistência entre interfaces do editor e administração, novas notificações na barra, consolidação da paleta de cores por omissão do WordPress, e a introdução de movimento para tornar a interacção com os seus blocos mais rápida e natural. Para quem usar o teclado para navegar no painel, o editor de blocos tem agora um modo de navegação. Isto permite-lhe saltar de bloco em bloco sem ter de navegar por todos os controlos de cada bloco."
 
-#: wp-admin/about.php:68
+#: wp-admin/about.php:101
 msgid "This enhancement-focused update introduces over 150 new features and usability improvements, including improved large image support for uploading non-optimized, high-resolution pictures taken from your smartphone or other high-quality cameras. Combined with larger default image sizes, pictures always look their best."
 msgstr "Esta actualização focada em melhorias introduz mais de 150 novas funcionalidades e melhorias de usabilidade, incluindo melhor suporte para imagens grandes para poder carregar imagens de alta resolução não optimizadas, obtidas com o seu smartphone ou câmara de alta qualidade. Combinando isto com imagens maiores por omissão, pode disponibilizar imagens na sua melhor qualidade."
 
-#: wp-admin/about.php:66
+#: wp-admin/about.php:99
 msgid "Block Editor Improvements"
 msgstr "Melhorias no editor de blocos"
 
-#: wp-admin/about.php:53
+#: wp-admin/about.php:86
 msgid "5.3 expands and refines the block editor introduced in WordPress 5.0 with a new block, more intuitive interactions, and improved accessibility. New features in the editor increase design freedoms, provide additional layout options and style variations to allow designers complete control over the look of a site. This release also introduces the Twenty Twenty theme giving the user more design flexibility and integration with the block editor. Creating beautiful web pages and advanced layouts has never been easier."
 msgstr "A versão 5.3 aumenta e refina o editor de blocos introduzido no WordPress 5.0 com novos blocos, interacções mais intuitivas e melhor acessibilidade. As novas funcionalidades do editor permitem mais liberdade de design, com opções adicionais de layout e variações de estilo para que os designers tenham controlo total sobre a apresentação do site. Esta versão introduz o tema Twenty Twenty, que permite maior flexibilidade de design e melhor integração com o editor de blocos. Nunca foi tão fácil criar páginas bonitas e layouts avançados."
 
@@ -719,11 +719,11 @@ msgstr "A imagem %1$s tem de ser um objecto de %2$s."
 msgid "You are in recovery mode. This means there may be an error with a theme or plugin. To exit recovery mode, log out or use the Exit button. <a href=\"%s\">Exit Recovery Mode</a>"
 msgstr "Está em modo de recuperação. Isto significa que poderá haver um erro com um tema ou plugin. Para sair do modo de recuperação, termine a sessão ou use o botão Sair. <a href=\"%s\">Sair do modo de recuperação</a>"
 
-#: wp-admin/about.php:137
+#: wp-admin/about.php:170
 msgid "Improvements for Everyone"
 msgstr "Melhorias para todos"
 
-#: wp-admin/about.php:144
+#: wp-admin/about.php:177
 msgid "Site Health Checks"
 msgstr "Diagnósticos do site"
 
@@ -2357,8 +2357,9 @@ msgid "Cannot Install"
 msgstr "Não é possível instalar"
 
 #. translators: %s: WordPress version.
+#. translators: %s: WordPress version
 #: wp-admin/includes/update.php:280 wp-admin/install.php:239
-#: wp-admin/update-core.php:78 wp-admin/upgrade.php:83
+#: wp-admin/update-core.php:78 wp-admin/upgrade.php:83 wp-admin/about.php:73
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
@@ -4853,7 +4854,7 @@ msgid "(Currently set to: %s)"
 msgstr "(De momento definido como: %s)"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:220
+#: wp-admin/about.php:253
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "A <strong>versão %s</strong> corrigiu um problema de segurança."
 
@@ -4865,15 +4866,15 @@ msgstr "https://pt.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Imagem de perfil"
 
-#: wp-admin/about.php:217
+#: wp-admin/about.php:53 wp-admin/about.php:250
 msgid "Maintenance and Security Releases"
 msgstr "Actualizações de manutenção e segurança"
 
-#: wp-admin/about.php:214
+#: wp-admin/about.php:247
 msgid "Security Releases"
 msgstr "Actualizações de segurança"
 
-#: wp-admin/about.php:211
+#: wp-admin/about.php:244
 msgid "Maintenance Releases"
 msgstr "Actualizações de manutenção"
 
@@ -7464,7 +7465,7 @@ msgstr "%s está neste momento a editar"
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
 msgstr "Pode carregar e inserir multimédia (imagens, áudio, documentos, etc.) ao clicar no botão \"Adicionar multimédia\". Pode escolher imagens e ficheiros já existentes na sua biblioteca ou carregar novos ficheiros para adicionar à sua página ou artigo. Para criar uma galeria de imagens, escolha as imagens que quer adicionar e clique no botão &#8220;Criar galeria&#8221;."
 
-#: wp-admin/about.php:106
+#: wp-admin/about.php:139
 msgid "Introducing Twenty Twenty"
 msgstr "Apresentamos o Twenty Twenty"
 
@@ -8421,28 +8422,31 @@ msgid "Show Toolbar when viewing site"
 msgstr "Mostrar a barra de ferramentas ao visualizar o site"
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:225
+#: wp-admin/about.php:258
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu %2$s bug."
 msgstr[1] "A <strong>versão %1$s</strong> corrigiu %2$s bugs."
 
+#. translators: 1: WordPress version number, 2: plural number of bugs. More
+#. than one security issue.
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:237
+#: wp-admin/about.php:58 wp-admin/about.php:270
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bug."
 msgstr[1] "A <strong>versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bugs."
 
+#. translators: %s: HelpHub URL
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:243
+#: wp-admin/about.php:70 wp-admin/about.php:276
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Para mais informações, consulte as <a href=\"%s\">notas sobre esta actualização</a>."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:231
+#: wp-admin/about.php:264
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu um problema de segurança e %2$s bug."
@@ -8453,15 +8457,15 @@ msgid "Welcome to your WordPress Dashboard! This is the screen you will see when
 msgstr "Bem-vindo ao painel do WordPress! Esta é a página que lhe é apresentada quando inicia a sessão no seu site e que lhe dá acesso a toda as funcionalidades de gestão. Pode obter ajuda em qualquer página clicando no separador Ajuda acima do titulo do ecrã."
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:222
+#: wp-admin/about.php:255
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "A <strong>versão %s</strong> corrigiu alguns problemas de segurança."
 
-#: wp-admin/about.php:210
+#: wp-admin/about.php:243
 msgid "Maintenance Release"
 msgstr "Actualização de manutenção"
 
-#: wp-admin/about.php:213
+#: wp-admin/about.php:246
 msgid "Security Release"
 msgstr "Actualização de segurança"
 
@@ -8470,7 +8474,7 @@ msgstr "Actualização de segurança"
 msgid "What&#8217;s New"
 msgstr "O que há de novo"
 
-#: wp-admin/about.php:216
+#: wp-admin/about.php:249
 msgid "Maintenance and Security Release"
 msgstr "Actualização de manutenção e segurança"
 
@@ -8483,7 +8487,7 @@ msgstr "Esta página permite-lhe escolher a sua estrutura de ligações permanen
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Bem-vindo ao WordPress %1$s. <a href=\"%2$s\">Mais informações</a>."
 
-#: wp-admin/about.php:197
+#: wp-admin/about.php:230
 msgid "Return to Updates"
 msgstr "Voltar às actualizações"
 
@@ -8754,11 +8758,11 @@ msgstr "Gestão de páginas"
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
 msgstr "Porque esta é uma instalação multissite, pode adicionar contas que já existem na rede, especificando um nome de utilizador ou email, e definir o respectivo papel. Para mais opções, tais como especificar uma senha, tem que ser um administrador de rede e passar o rato sobre o nome de um utilizador existente, para editar o papel do utilizador em Administração da rede > Todos os utilizadores."
 
-#: wp-admin/about.php:197
+#: wp-admin/about.php:230
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Voltar ao painel &rarr; Actualizações"
 
-#: wp-admin/about.php:200
+#: wp-admin/about.php:233
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ir para o painel &rarr; Início"
 
@@ -8766,7 +8770,7 @@ msgstr "Ir para o painel &rarr; Início"
 msgid "WordPress is created by a worldwide team of passionate individuals."
 msgstr "O WordPress é desenvolvido por uma equipa de entusiastas."
 
-#: wp-admin/about.php:164
+#: wp-admin/about.php:197
 msgid "For Developers"
 msgstr "Para programadores"
 
@@ -10619,7 +10623,7 @@ msgstr "Item do menu"
 msgid "Please enter a valid menu name."
 msgstr "Por favor indique um nome de menu válido."
 
-#: wp-admin/about.php:200
+#: wp-admin/about.php:233
 msgid "Go to Dashboard"
 msgstr "Ir para o painel"
 
@@ -13336,7 +13340,7 @@ msgctxt "posts"
 msgid "Mine <span class=\"count\">(%s)</span>"
 msgid_plural "Mine <span class=\"count\">(%s)</span>"
 msgstr[0] "Meu <span class=\"count\">(%s)</span>"
-msgstr[1] "Meus <span class=\"count\">(%s)</span>"
+msgstr[1] "Meu <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of blocks.
 #: wp-admin/edit.php:347

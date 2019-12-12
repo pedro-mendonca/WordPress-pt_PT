@@ -60,7 +60,7 @@ msgid "&#8221;"
 msgstr "&#8221;"
 
 #. translators: Opening curly double quote.
-#: wp-includes/formatting.php:98 wp-includes/formatting.php:5332
+#: wp-includes/formatting.php:98 wp-includes/formatting.php:5368
 msgctxt "opening curly double quote"
 msgid "&#8220;"
 msgstr "&#8220;"
@@ -800,7 +800,7 @@ msgstr "WordPress versão %s"
 msgid "https://wordpress.org/support/article/debugging-a-wordpress-network/"
 msgstr "https://wordpress.org/support/article/debugging-a-wordpress-network/"
 
-#: wp-includes/formatting.php:4770
+#: wp-includes/formatting.php:4781
 msgid "https://wordpress.org/support/article/using-permalinks/#choosing-your-permalink-structure"
 msgstr "https://wordpress.org/support/article/using-permalinks/#choosing-your-permalink-structure"
 
@@ -1035,7 +1035,7 @@ msgid "Confirm your administration email"
 msgstr "Confirme o seu email de administração"
 
 #. translators: Maximum number of words used in a post excerpt.
-#: wp-includes/formatting.php:3795
+#: wp-includes/formatting.php:3806
 msgctxt "excerpt_length"
 msgid "55"
 msgstr "55"
@@ -1701,7 +1701,7 @@ msgid "REST API routes must be registered on the %s action."
 msgstr "As rotas da REST API têm de estar registadas na acção %s."
 
 #. translators: Used to join last two items in a list with more than 2 times.
-#: wp-includes/formatting.php:5011
+#: wp-includes/formatting.php:5047
 msgid "%1$s, and %2$s"
 msgstr "%1$s e %2$s"
 
@@ -1790,7 +1790,7 @@ msgid "Formats"
 msgstr "Formatos"
 
 #. translators: Used to join items in a list with more than 2 items.
-#: wp-includes/formatting.php:5009
+#: wp-includes/formatting.php:5045
 msgid "%1$s, %2$s"
 msgstr "%1$s, %2$s"
 
@@ -1807,7 +1807,7 @@ msgstr "https://pt.wordpress.org/support/update-php/"
 #. translators: %s: Time duration in second or seconds.
 #. translators: Time difference between two dates, in seconds. %s: Number of
 #. seconds.
-#: wp-includes/functions.php:521 wp-includes/formatting.php:3708
+#: wp-includes/functions.php:521 wp-includes/formatting.php:3719
 msgid "%s second"
 msgid_plural "%s seconds"
 msgstr[0] "%s segundo"
@@ -8929,7 +8929,7 @@ msgid "Image crop area preview. Requires mouse interaction."
 msgstr "Pré-visualização do corte da imagem. É necessário usar o rato."
 
 #. translators: %s: Documentation URL.
-#: wp-includes/formatting.php:4769
+#: wp-includes/formatting.php:4780
 msgid "A structure tag is required when using custom permalinks. <a href=\"%s\">Learn more</a>"
 msgstr "É necessária uma estrutura de etiquetas quando usa ligações permanentes personalizadas. <a href=\"%s\">Mais informações</a>"
 
@@ -9915,7 +9915,7 @@ msgstr "Mostrar/esconder secção: %s"
 #. Asian characters), enter 'characters_excluding_spaces' or
 #. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
 #. into your own language.
-#: wp-includes/script-loader.php:2291 wp-includes/formatting.php:3856
+#: wp-includes/script-loader.php:2291 wp-includes/formatting.php:3867
 #: wp-includes/js/dist/editor.js:12146
 msgctxt "Word count type. Do not translate!"
 msgid "words"
@@ -12399,7 +12399,7 @@ msgstr "Inválido"
 
 #. translators: Time difference between two dates, in years. %s: Number of
 #. years.
-#: wp-includes/formatting.php:3750
+#: wp-includes/formatting.php:3761
 msgid "%s year"
 msgid_plural "%s years"
 msgstr[0] "%s ano"
@@ -12407,7 +12407,7 @@ msgstr[1] "%s anos"
 
 #. translators: Time difference between two dates, in months. %s: Number of
 #. months.
-#: wp-includes/formatting.php:3743
+#: wp-includes/formatting.php:3754
 msgid "%s month"
 msgid_plural "%s months"
 msgstr[0] "%s mês"
@@ -12415,7 +12415,7 @@ msgstr[1] "%s meses"
 
 #. translators: Time difference between two dates, in weeks. %s: Number of
 #. weeks.
-#: wp-includes/formatting.php:3736
+#: wp-includes/formatting.php:3747
 msgid "%s week"
 msgid_plural "%s weeks"
 msgstr[0] "%s semana"
@@ -13540,7 +13540,7 @@ msgstr "<strong>ERRO</strong>: Este URL já está em uso."
 msgid "Documentation"
 msgstr "Documentação"
 
-#: wp-includes/general-template.php:4205 wp-includes/formatting.php:3844
+#: wp-includes/general-template.php:4205 wp-includes/formatting.php:3855
 msgid "&hellip;"
 msgstr "&hellip;"
 
@@ -13608,7 +13608,7 @@ msgctxt "admin color scheme"
 msgid "Blue"
 msgstr "Azul"
 
-#: wp-includes/formatting.php:4751
+#: wp-includes/formatting.php:4762
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
 msgstr "O fuso horário que indicou não é válido. Por favor indique um fuso válido."
 
@@ -14026,7 +14026,7 @@ msgid "F, Y"
 msgstr "F, Y"
 
 #. translators: Used to join items in a list with only 2 items.
-#: wp-includes/formatting.php:5013
+#: wp-includes/formatting.php:5049
 msgid "%1$s and %2$s"
 msgstr "%1$s e %2$s"
 
@@ -14299,15 +14299,15 @@ msgstr "Este site foi arquivado ou suspenso."
 msgid "The given object ID is not that of a menu item."
 msgstr "O ID do objecto indicado não é um item de menu."
 
-#: wp-includes/formatting.php:4692
+#: wp-includes/formatting.php:4703
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "O endereço do site que inseriu não parece ser um URL válido. Por favor, insira um URL válido."
 
-#: wp-includes/formatting.php:4679
+#: wp-includes/formatting.php:4690
 msgid "The WordPress address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "O endereço do WordPress que inseriu não parece ser um URL válido. Por favor, insira um URL válido."
 
-#: wp-includes/formatting.php:4569
+#: wp-includes/formatting.php:4580
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
 msgstr "O endereço de email introduzido não aparenta ser válido. Por favor introduza um endereço de email válido."
 
@@ -16175,7 +16175,7 @@ msgid ", "
 msgstr ", "
 
 #. translators: Time difference between two dates, in days. %s: Number of days.
-#: wp-includes/formatting.php:3729
+#: wp-includes/formatting.php:3740
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] "%s dia"
@@ -16184,7 +16184,7 @@ msgstr[1] "%s dias"
 #. translators: %s: Time duration in hour or hours.
 #. translators: Time difference between two dates, in hours. %s: Number of
 #. hours.
-#: wp-includes/functions.php:509 wp-includes/formatting.php:3722
+#: wp-includes/functions.php:509 wp-includes/formatting.php:3733
 msgid "%s hour"
 msgid_plural "%s hours"
 msgstr[0] "%s hora"
@@ -16192,7 +16192,7 @@ msgstr[1] "%s horas"
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s:
 #. Number of minutes.
-#: wp-includes/formatting.php:3715
+#: wp-includes/formatting.php:3726
 msgid "%s min"
 msgid_plural "%s mins"
 msgstr[0] "%s min"
