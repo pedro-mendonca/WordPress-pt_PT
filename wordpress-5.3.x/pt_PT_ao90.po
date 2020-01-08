@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.3.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-12 11:48:01+0000\n"
+"PO-Revision-Date: 2020-01-08 13:01:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -453,7 +453,7 @@ msgstr "Recortar a imagem para preencher toda a coluna"
 
 #: wp-includes/js/dist/block-library.js:7014
 msgid "Write gallery caption…"
-msgstr "Escrever legenda da galeria..."
+msgstr "Escrever legenda da galeria…"
 
 #: wp-includes/js/dist/block-library.js:6565
 msgid "Move image forward"
@@ -1312,7 +1312,7 @@ msgstr "Ajude os visitantes a encontrar o seu conteúdo."
 
 #: wp-includes/js/dist/block-library.js:16428
 msgid "Add button text…"
-msgstr "Adicionar texto do botão..."
+msgstr "Adicionar texto do botão…"
 
 #: wp-includes/js/dist/block-library.js:16427
 msgid "Button text"
@@ -1320,7 +1320,7 @@ msgstr "Texto do botão"
 
 #: wp-includes/js/dist/block-library.js:16417
 msgid "Optional placeholder…"
-msgstr "Placeholder opcional..."
+msgstr "Placeholder opcional…"
 
 #: wp-includes/js/dist/block-library.js:16413
 msgid "Optional placeholder text"
@@ -1328,7 +1328,7 @@ msgstr "Texto de placeholder opcional"
 
 #: wp-includes/js/dist/block-library.js:16403
 msgid "Add label…"
-msgstr "Adicionar legenda..."
+msgstr "Adicionar legenda…"
 
 #: wp-includes/js/dist/block-library.js:16402
 msgid "Label text"
@@ -1883,7 +1883,7 @@ msgstr "Foi encontrada uma discrepância numa variável."
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr "Foi detetada uma discrepância no valor duma chave. Por favor, siga a ligação fornecida no seu email de ativação. "
+msgstr "Foi detetada uma discrepância no valor duma chave. Por favor, siga a ligação fornecida no seu email de ativação."
 
 #. translators: ARIA label for the Settings Sidebar tab, selected.
 #: wp-includes/js/dist/edit-post.js:4613
@@ -2376,7 +2376,7 @@ msgstr "Aumentar indentação do elemento da lista"
 
 #: wp-includes/js/dist/block-library.js:14262
 msgid "Outdent list item"
-msgstr "Reduzir indentação do elemento da lista "
+msgstr "Reduzir indentação do elemento da lista"
 
 #: wp-includes/js/dist/block-library.js:14247
 msgid "Convert to ordered list"
@@ -3685,7 +3685,7 @@ msgstr "Pré-visualizar"
 
 #: wp-includes/js/dist/editor.js:8364 wp-includes/js/dist/editor.js:8374
 msgid "Generating preview…"
-msgstr "A gerar a pré-visualização..."
+msgstr "A gerar a pré-visualização…"
 
 #: wp-includes/js/dist/editor.js:8908
 msgid "Allow Pingbacks & Trackbacks"
@@ -3915,7 +3915,7 @@ msgstr "Adicionar aos blocos reutilizáveis"
 msgid "Remove Block"
 msgid_plural "Remove Blocks"
 msgstr[0] "Remover bloco"
-msgstr[1] ""
+msgstr[1] "Remover blocos"
 
 #: wp-includes/js/dist/block-editor.js:18837
 msgid "Insert After"
@@ -4928,7 +4928,7 @@ msgstr "Foram encontrados dados pessoais deste utilizador, mas alguns dos dados 
 
 #: wp-includes/script-loader.php:1804
 msgid "Personal data was found for this user but was not erased."
-msgstr "Foram encontrados dados pessoais deste utilizador, mas não foram eliminados. "
+msgstr "Foram encontrados dados pessoais deste utilizador, mas não foram eliminados."
 
 #: wp-includes/script-loader.php:1803
 msgid "All of the personal data found for this user was erased."
@@ -7420,17 +7420,17 @@ msgstr "%1$s tem que ser entre %2$d (incluindo) e %3$d (incluindo)"
 #. translators: 1: Parameter, 2: Minimum number, 3: Maximum number.
 #: wp-includes/rest-api.php:1369
 msgid "%1$s must be between %2$d (exclusive) and %3$d (inclusive)"
-msgstr "%1$s tem que ser entre %2$d (não incluindo) e %3$d (incluindo) "
+msgstr "%1$s tem que ser entre %2$d (não incluindo) e %3$d (incluindo)"
 
 #. translators: 1: Parameter, 2: Minimum number, 3: Maximum number.
 #: wp-includes/rest-api.php:1364
 msgid "%1$s must be between %2$d (inclusive) and %3$d (exclusive)"
-msgstr "%1$s tem que ser entre %2$d (incluindo) e %3$d (não incluindo) "
+msgstr "%1$s tem que ser entre %2$d (incluindo) e %3$d (não incluindo)"
 
 #. translators: 1: Parameter, 2: Minimum number, 3: Maximum number.
 #: wp-includes/rest-api.php:1359
 msgid "%1$s must be between %2$d (exclusive) and %3$d (exclusive)"
-msgstr "%1$s tem que ser entre %2$d (não incluindo) e %3$d (não incluindo) "
+msgstr "%1$s tem que ser entre %2$d (não incluindo) e %3$d (não incluindo)"
 
 #. translators: %s: IP address.
 #: wp-includes/rest-api.php:1332
@@ -7457,7 +7457,7 @@ msgstr "Campos de metadados."
 
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:228
 msgid "Could not delete meta value from database."
-msgstr "Não foi possível eliminar o valor de metadados da base de dados. \t"
+msgstr "Não foi possível eliminar o valor de metadados da base de dados."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1412
 msgid "Limit result set to users matching at least one specific role provided. Accepts csv list or single role."
@@ -7706,7 +7706,7 @@ msgstr "O nome do estado para o objeto."
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:678
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1963
 msgid "An alphanumeric identifier for the object unique to its type."
-msgstr "Um identificador alfanumérico para o objeto, único para seu tipo. "
+msgstr "Um identificador alfanumérico para o objeto, único para seu tipo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:667
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1956
@@ -8493,7 +8493,7 @@ msgstr "Repetir"
 #: wp-includes/class-wp-customize-manager.php:5420
 #: wp-includes/class-wp-customize-manager.php:5477
 msgid "Fit to Screen"
-msgstr "Ajustar ao ecrã "
+msgstr "Ajustar ao ecrã"
 
 #: wp-includes/class-wp-customize-manager.php:5418
 msgctxt "Default Preset"
@@ -9160,7 +9160,7 @@ msgstr "%s é proibido"
 
 #: wp-includes/customize/class-wp-customize-partial.php:207
 msgid "Partial render must echo the content or return the content string (or array), but not both."
-msgstr "A visualização parcial deve fazer <em>echo</em> do conteúdo ou devolver a cadeia de conteúdo (ou <em>array</em>), mas não ambos. "
+msgstr "A visualização parcial deve fazer <em>echo</em> do conteúdo ou devolver a cadeia de conteúdo (ou <em>array</em>), mas não ambos."
 
 #: wp-includes/comment.php:1239
 msgid "<strong>ERROR</strong>: your comment is too long."
@@ -9232,7 +9232,7 @@ msgstr "Entrar em modo de pré-visualização para desktop"
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:192
 #: wp-includes/class-wp-customize-manager.php:2120
 msgid "Shift-click to edit this element."
-msgstr "Carregue na tecla Shift e clique com o rato para editar este elemento. "
+msgstr "Carregue na tecla Shift e clique com o rato para editar este elemento."
 
 #: wp-comments-post.php:31
 msgid "Comment Submission Failure"
@@ -9244,7 +9244,7 @@ msgstr "<strong>ERRO</strong>: Esse nome de utilizador não é permitido."
 
 #: wp-includes/rest-api/class-wp-rest-request.php:888
 msgid "Invalid parameter."
-msgstr "Parâmetro inválido"
+msgstr "Parâmetro inválido."
 
 #. translators: %s: Menu name.
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:81
@@ -10203,7 +10203,7 @@ msgid ""
 "The changes you made will be lost."
 msgstr ""
 "De certeza que quer editar este comentário?\n"
-"Vai perder as alterações que fez…"
+"As alterações feitas serão perdidas."
 
 #: wp-includes/script-loader.php:1027
 msgid "Close code tag"
@@ -10561,7 +10561,7 @@ msgstr "https://codex.wordpress.org/Function_Reference/is_main_query"
 
 #: wp-includes/admin-bar.php:164
 msgid "https://codex.wordpress.org/"
-msgstr "https://codex.wordpress.org"
+msgstr "https://codex.wordpress.org/"
 
 #. translators: 1: The 'id' argument, 2: Sidebar name, 3: Recommended 'id'
 #. value.
@@ -13955,7 +13955,7 @@ msgstr "Editar o meu perfil"
 
 #: wp-includes/post-formats.php:73
 msgid "Invalid post."
-msgstr "Artigo inválido"
+msgstr "Artigo inválido."
 
 #: wp-includes/class-wp-theme.php:954
 msgid "Blavatar"
@@ -13964,7 +13964,7 @@ msgstr "Blavatar"
 #. translators: %s: Taxonomy name.
 #: wp-includes/post.php:3944
 msgid "Invalid taxonomy: %s."
-msgstr "Taxonomia inválida: %s"
+msgstr "Taxonomia inválida: %s."
 
 #: wp-includes/taxonomy.php:131
 msgid "Link Category"
@@ -14825,7 +14825,7 @@ msgstr "Houve um problema, por favor corrija o formulário abaixo e volte a tent
 
 #: wp-signup.php:266
 msgid "Email&nbsp;Address:"
-msgstr "Endereço&nbsp;de&nbsp;Email: "
+msgstr "Endereço&nbsp;de&nbsp;email:"
 
 #: wp-signup.php:263
 msgid "(Must be at least 4 characters, letters and numbers only.)"
@@ -15137,7 +15137,7 @@ msgstr "Fechar todas as etiquetas abertas"
 
 #: wp-includes/blocks/rss.php:27 wp-includes/widgets.php:1521
 msgid "An error has occurred, which probably means the feed is down. Try again later."
-msgstr "Ocorreu um erro. A causa provável é o feed estar offline. Tente mais tarde. "
+msgstr "Ocorreu um erro. A causa provável é o feed estar offline. Tente mais tarde."
 
 #: wp-includes/user.php:2197
 msgid "Jabber / Google Talk"
